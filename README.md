@@ -5,7 +5,7 @@ Hi! My name is Branden Yang, and I made this game for fun during the summer of 2
 ### The link for the game on the App Store can be found here: 
 https://apps.apple.com/us/app/llama-launching/id1413570758
 
-Since idk that much about GitHub and I'm not sure how to upload large amounts of files, I've only included the Swift code files, the SpriteKit effects that I made in Xcode, and the assets (not sure if those last two are actually usable but ¯\_(ツ)_/¯)
+Since idk that much about GitHub and I'm not sure how to upload large amounts of files, I've only included the Swift code files, the SpriteKit effects that I made in Xcode, and the assets (not sure if those last two are actually usable but ¯\\_(ツ)_/¯)
 
 Anyways, feel free to use this code, although I'm not sure how helpful it'll be since it's super unorganized lol. (And I have no intention of cleaning it up anytime soon)
 
